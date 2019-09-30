@@ -12,6 +12,8 @@ bootstrap
 mysql
 
 # 项目截图
+截了4张图，前两张是移动端的，后两张是pc端的
+
 ![移动端](https://github.com/wjup/shorturl/blob/master/show/index-mobile.jpg?raw=true)
 ![移动端](https://github.com/wjup/shorturl/blob/master/show/pwd-mobile.jpg?raw=true)
 ![PC端](https://github.com/wjup/shorturl/blob/master/show/pwd.png?raw=true)
