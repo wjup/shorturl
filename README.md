@@ -16,5 +16,5 @@ mysql
 
 ![移动端](https://github.com/wjup/shorturl/blob/master/show/index-mobile.jpg?raw=true)
 ![移动端](https://github.com/wjup/shorturl/blob/master/show/pwd-mobile.jpg?raw=true)
-![PC端](https://github.com/wjup/shorturl/blob/master/show/pwd.png?raw=true)
+![PC端](https://github.com/wjup/shorturl/blob/master/show/index.png?raw=true)
 ![PC端](https://github.com/wjup/shorturl/blob/master/show/pwd.png?raw=true)
