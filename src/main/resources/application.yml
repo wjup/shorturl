@@ -3,7 +3,7 @@ server:
 
 mybatis:
   configuration:
-    # ÏÂ»®Ïß×ªÍÕ·å
+    # ï¿½Â»ï¿½ï¿½ï¿½×ªï¿½Õ·ï¿½
     map-underscore-to-camel-case: true
   mapper-locations: classpath:mapping/*Mapper.xml
   type-aliases-package: com.wjup.shorturl.entity
@@ -22,3 +22,7 @@ spring:
     mode: html5
     servlet:
       content-type: text/html
+
+logging:
+  path: /opt/java/log
+  file: shorturl.log
